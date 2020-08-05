@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Mon thème enfant
+ Theme URI:    https://monsite.com
+ Description:  Description de mon thème enfant
+ Author:       Alex
+ Author URI:   https://wpmarmite.com
+ Template:     resortica-lite
+ Version:      1.0.0
+*/
+
+
+.solid-bg, .gradient-bg {
+  position: initial;
+  width: auto;
+  }
+body .wp-block-buttons{
+	text-align: center;
+}
